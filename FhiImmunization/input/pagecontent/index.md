@@ -1,3 +1,3 @@
 # FhiImmunization
 
-Feel free to modify this index page with your own awesome content!
+Oppsett for registrerte vaksiner fra SYSVAK
